@@ -1,0 +1,118 @@
+
+        Vehicle Exited
+        ---------------------------
+        ID           : 7
+        Vehicle No.  : Ba234
+        Entry Time   : 2024-12-06 19:20:52.963315
+        Exit Time    : 2024-12-06 19:21:24.970790
+        Duration     : 0.01 hours
+        Price        : 0.18 NPR
+        ---------------------------
+        
+
+        Vehicle Exited
+        ---------------------------
+        ID           : 8
+        Vehicle No.  : Ba294
+        Entry Time   : 2024-12-08 08:16:09.922547
+        Exit Time    : 2024-12-08 08:16:21.286639
+        Duration     : 0.00 hours
+        Price        : 0.16 NPR
+        ---------------------------
+        
+
+        Vehicle Exited
+        ---------------------------
+        ID            : 9
+        Vehicle No.   : Ba295
+        Entry Time    : 2024-12-08 08:41:27.815116
+        Exit Time     : 2024-12-08 08:41:46.097372
+        Duration      : 0.01 hours
+        Addition Fare : 5
+        Price         : 5.10 NPR
+        ---------------------------
+        
+
+        Vehicle Exited
+        ---------------------------
+        ID            : 10
+        Vehicle No.   : Kr235
+        Entry Time    : 2024-12-08 08:45:10.983773
+        Exit Time     : 2024-12-08 08:45:29.430090
+        Duration      : 0.01 hours
+        Addition Fare : 0.025619884722222222
+        Price         : 5.10 NPR
+        ---------------------------
+        
+
+        Vehicle Exited
+        ---------------------------
+        ID            : 12
+        Vehicle No.   : Er1234
+        Entry Time    : 2024-12-08 09:06:10.692350
+        Exit Time     : 2024-12-08 09:06:36.564529
+        Duration      : 0.01 hours
+        Addition Fare : 0.035933581944444445
+        Price         : 0.18 NPR
+        ---------------------------
+        
+
+        Vehicle Exited
+        ---------------------------
+        ID            : 13
+        Vehicle No.   : Us34
+        Entry Time    : 2024-12-08 09:09:20.422636
+        Exit Time     : 2024-12-08 09:09:29.278277
+        Duration      : 0.00 hours
+        Addition Fare : 0.024599002777777778
+        Price         : 0.14 NPR
+        ---------------------------
+        
+
+        Vehicle Exited
+        ---------------------------
+        ID            : 14
+        Vehicle No.   : Ert3
+        Entry Time    : 2024-12-08 09:13:40.858474
+        Exit Time     : 2024-12-08 09:13:53.108205
+        Duration      : 0.00 hours
+        Addition Fare : 0.03402703055555556
+        Price         : 0.20 NPR
+        ---------------------------
+        
+
+        Vehicle Exited
+        ---------------------------
+        ID            : 15
+        Vehicle No.   : 345Ba
+        Entry Time    : 2024-12-08 09:20:12.459581
+        Exit Time     : 2024-12-08 09:20:22.517661
+        Duration      : 0.00 hours
+        Addition Fare : 0.013969555555555556
+        Price         : 0.07 NPR
+        ---------------------------
+        
+
+        Vehicle Exited
+        ---------------------------
+        ID            : 16
+        Vehicle No.   : Pa123
+        Entry Time    : 2024-12-08 20:15:58.785422
+        Exit Time     : 2024-12-08 20:16:07.580136
+        Duration      : 0.00 hours
+        Addition Fare : 0.02
+        Price         : 0.14 NPR
+        ---------------------------
+        
+
+        Vehicle Exited
+        ---------------------------
+        ID            : 17
+        Vehicle No.   : Ba293
+        Entry Time    : 2024-12-09 08:22:01.407429
+        Exit Time     : 2024-12-09 08:22:24.734288
+        Duration      : 0.01 hours
+        Addition Fare : 0.03NPR
+        Price         : 0.16 NPR
+        ---------------------------
+        
