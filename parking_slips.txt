@@ -98,16 +98,7 @@
     ---------------------------
     
 
-    Parking Slip
-    ---------------------------
-    ID           : 16
-    Username     : Prisha
-    Phone Number : 9754321225
-    Vehicle No.  : Pa123
-    Entry Time   : 2024-12-08 20:15:58.785422
-    Vehicle Type : Four wheeler
-    ---------------------------
-    
+   
 
     Parking Slip
     ---------------------------
